@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Music</string>
+    <string name="sakura">Sakura</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="next" />
+    <string name="back" />
+    <string name="todo">TODO</string>
+</resources>

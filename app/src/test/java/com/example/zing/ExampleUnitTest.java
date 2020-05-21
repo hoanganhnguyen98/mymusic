@@ -1,4 +1,4 @@
-package com.example.mymusic;
+package com.example.zing;
 
 import org.junit.Test;
 
